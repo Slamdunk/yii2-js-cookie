@@ -1,5 +1,5 @@
 # yii2-js-cookie
-This extension provides a assets bundle with [JavaScript Cookie](http://fortawesome.github.io/Font-Awesome/)
+This extension provides an assets bundle with [JavaScript Cookie](https://github.com/js-cookie/js-cookie/)
 for [Yii framework 2.0](http://www.yiiframework.com/) applications.
 
 [![Latest Stable Version](https://poser.pugx.org/webtoucher/yii2-js-cookie/v/stable)](https://packagist.org/packages/webtoucher/yii2-js-cookie)
